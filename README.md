@@ -38,6 +38,11 @@ Built with **React, Node.js, Express, and MongoDB**, with the frontend productio
  Note: The first load may take a few seconds due to Render free-tier cold start.
 
 ---
+## 🚀 Live Demo
+
+👉 [https://pocketpal-personal-finance-tracker-web.onrender.com](https://pocketpal-personal-finance-tracker-web.onrender.com)
+
+---
 
 ## 📦 Project Structure
 backend/
