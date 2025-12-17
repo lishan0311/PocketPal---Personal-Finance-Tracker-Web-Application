@@ -9,10 +9,6 @@ connectDB()
 
 // middleware
 app.use(express.json())
-<<<<<<< HEAD
-=======
-app.use(express.static('dist'))
->>>>>>> 6cc2fac74f532a4272a28d9ee16d1d21e6084c62
 
 // router
 app.use('/api/auth', require('./routes/auth'))
